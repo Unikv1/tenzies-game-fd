@@ -1,0 +1,23 @@
+:root {
+  font-family: "Inter Tight", sans-serif;
+  display: flex;
+  justify-content: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: #0B2434;
+}
+
+main {
+  padding: 25px;
+  border-radius: 10px;
+  background-color: #F5F5F5;
+  margin-top: 20px;
+  width: 360px;
+  
+}
